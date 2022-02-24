@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Com' Concil' tent' in Camera Guihald civitat' London' die Veneris septimo die Junij anno Dom' 1700 ... it is ordered, that the act of Common Council made in the mayoralty of Sir Robert Ducy Knight and Baronet, relating to the choice, election and confirmation of sheriffs for this city and county of Middlesex ...</title>
+            <author>City of London (England).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49020</idno>
+            <idno type="STC">Wing L2861L</idno>
+            <idno type="STC">ESTC R39363</idno>
+            <idno type="EEBO-CITATION">18370502</idno>
+            <idno type="OCLC">ocm 18370502</idno>
+            <idno type="VID">107436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49020)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107436)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1637:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Com' Concil' tent' in Camera Guihald civitat' London' die Veneris septimo die Junij anno Dom' 1700 ... it is ordered, that the act of Common Council made in the mayoralty of Sir Robert Ducy Knight and Baronet, relating to the choice, election and confirmation of sheriffs for this city and county of Middlesex ...</title>
+                  <author>City of London (England).</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sheriffs --  England --  London.</term>
+               <term>London (England) --  Politics and government.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Acts_of_Common_Council__City_of_London">
+            <pb facs="tcp:107436:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:107436:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <head>Com' Concil' tent' in Camera Guihald' Civitat' <hi>London'</hi> 
+               <date>Die Ve<g ref="char:EOLhyphen"/>neris Septimo die <hi>Junij</hi> Anno Dom' <hi>1700</hi> Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regni Regis <hi>Willielmi</hi> Tertij Angl' &amp;c. Duodecimo.</date> Coram <hi>Ricardo Levett</hi> Mil', Major' Civitat' praed', <hi>Johannne Moore</hi> Mil', <hi>Thoma Stamp</hi> Mil', <hi>Thoma Lane</hi> Mil', <hi>Johanne Houblon</hi> Mil', <hi>Edvardo Clark</hi> Mil', <hi>Humphrido Edwin</hi> Mil', ac ejuſd Ci<g ref="char:EOLhyphen"/>vitat' Aldermannis, <hi>Salathiel Lovel</hi> Mil', Servien' ad legem ac Recordat' dict' Civitat', <hi>Johanne Parſons</hi> Mil', <hi>Wil' Gore</hi> Mil', <hi>Jacobo Houblon</hi> Mil', &amp; <hi>Thoma Rawlinſon</hi> Mil', ac ejuſd' Civit. Aldermannis &amp; <hi>Carolo Duncombe</hi> Mil', Aldro ac un' Vic' Dictae Civitat', nec non majori parte Com<g ref="char:EOLhyphen"/>muniar' in codem Communi Concil' tunc &amp; ibidem aſſemblat'.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>IT is Ordered, That the Act of Common Council made in the Mayoralty of Sir <hi>Robert Ducy</hi> Knight and Baronet, relating to the Choice, Election and Confirmation of Sheriffs for this City and County of <hi>Middleſex:</hi> As alſo another Act in the time of the Mayoralty of Sir <hi>William Aſhhurſt</hi> Knight, which Repeals Two Clauſes in Two Acts of Common Council made in the ſeveral Mayoralties of the ſaid Sir <hi>Robert Ducy,</hi> and Sir <hi>VVilliam Pritchard</hi> Knight, touching ſuch Choice, Ele<g ref="char:EOLhyphen"/>ction and Confirmation, be Printed together, and that each De<g ref="char:EOLhyphen"/>puty and Common Council-man of the ſeveral Wards of this City have one of the ſaid Books when Printed</p>
+                        <closer>
+                           <signed>Goodfellow.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <div type="Act">
+               <pb facs="tcp:107436:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 16 -->
+               <pb n="1" facs="tcp:107436:2"/>
+               <!-- PDF PAGE 16 -->
+               <head>Commune Concilium tent' in Camera <hi>Guihald'</hi> Civitat <hi>LONDON,</hi> 
+                  <date>viceſimo die <hi>Julii,</hi> Annoque Regni Dom noſtri <hi>CAROLI</hi> nunc Regis Angliae, &amp;c. Septimo, Coram</date> 
+                  <hi>Roberto Ducy,</hi> Mil' &amp; Baronet Majore Civitat' <hi>London, Thoma Middleton,</hi> Mil' &amp; Aldermanno Civitat' <hi>London, Nicholao Rainton, Radalpho Freeman, Thoma Moulſton, Rowlando Haylin, Roberto Parkhurſt, Johan' Poole, Chr. Cletherow, Ricard Penn, Mauritio Abbot,</hi> Mil' &amp; Alderman', <hi>Henrico Garway, Rowlando Back<g ref="char:EOLhyphen"/>houſe</hi> Aldermannis; <hi>Willielmo Action</hi> Mil', &amp; Baronetto, ac Aldermanno, <hi>Humphrido Smith</hi> &amp; <hi>Edmundo Wright,</hi> ejuſdem Civitatis Aldermannis; <hi>Anthony Abdy</hi> &amp; <hi>Ro<g ref="char:EOLhyphen"/>berto Cambel,</hi> ejuſdem Civitat' Vicecom', ac major' parte Communiar' de Communi Concilio ejuſdem Civitat' aſſemblat', ubi tune &amp; ibidem Enactitat' fuit, prout ſe<g ref="char:EOLhyphen"/>quitur.</head>
+               <p>WHereas an Act of Council made the Fifth Day of <hi>May</hi> in the Thirty fourth Year of the Reign of our late Sove<g ref="char:EOLhyphen"/>reign Lady Queen <hi>Elizabeth,</hi> of <hi>England, &amp;c.</hi> in the time of the Mayoralty of Sir <hi>William Webb,</hi> Kt. deceaſed; one Act was made and ordained, for, touching and concerning the Choice, Election and Confirmation of the She<g ref="char:EOLhyphen"/>riffs of this City, and the County of <hi>Middleſex.</hi> And whereas alſo divers other Acts of Com<g ref="char:EOLhyphen"/>mon Council have been made touching the ſame, Be it therefore Enacted by the Lord Mayor, Aldermen and Common Council of this City, That the ſaid Act made the ſaid Fifth Day of <hi>May</hi> in the Four and thirtieth Year afore<g ref="char:EOLhyphen"/>ſaid, and all other the ſaid Acts made touch<g ref="char:EOLhyphen"/>ing or concerning the Choice, Election and Confirmation of the Sheriffs of this City and County of <hi>Middleſex,</hi> ſhall be void and of none ef<g ref="char:EOLhyphen"/>fect,
+<pb n="2" facs="tcp:107436:3"/>
+                  <!-- PDF PAGE 17 -->for that the ſame Laws have not taken ſo good Effect as might be wiſhed, by reaſon that the Penalties and Forfeitures therein con<g ref="char:EOLhyphen"/>tained, have been over-mild, and thereby His Majeſties Service have been in Danger of Prejudice, and the good Citizens of this City, by reaſon of often Refuſal of the ſaid Office of Shrievalty have been much troubled and diſ<g ref="char:EOLhyphen"/>quieted; For better Reformation whereof, Be it now therefore Enacttd, Ordained and Eſta<g ref="char:EOLhyphen"/>bliſhed by the Lord Mayor, and Aldermen and Commons in this Common Council Aſſembled, and by the Authority of the ſame, That from henceforth for ever the Day as well for Con<g ref="char:EOLhyphen"/>firmation and Allowance of ſuch Perſons as hereafter ſhall be Choſen and Elected by the Lord Mayor of this City for the time being, to be Sheriffs of the ſaid City and County of <hi>Middleſex;</hi> as alſo for the Choice and Electi<g ref="char:EOLhyphen"/>on of ſuch other Perſons as by the Lord Mayor, Aldermen and Commons ſhall be Cho<g ref="char:EOLhyphen"/>ſen to be Sheriffs of the ſaid City and Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> ſhall be yearly holden on the Four and twentieth Day of <hi>June;</hi> And if it ſhall happen by the Death or Refuſal of any of the ſaid Perſon or Perſons ſo to be Choſen or Elected, as aforeſaid, or by the Death of any Shreive of this City, Departing in the time of his Shrievalty, or upon any other Occaſion whatſoever, there ſhall be juſt Cauſe to make a New Election; then the ſame ſhall from time to time be at ſuch Day and Time, as by the Court of Lord Mayor and Aldermen for the time being, ſhall be Ordered and Appoint<g ref="char:EOLhyphen"/>ed; And that no Freeman of the ſaid City, ſo
+<pb n="3" facs="tcp:107436:3"/>
+                  <!-- PDF PAGE 17 -->to be Choſen or Elected, as is aforeſaid, ſhall be Diſcharged or Exempted from the Execution of the ſaid Office of Shrievalty by Suppoſition or Excuſe of Defect, or Inſufficiency of Wealth, except he will voluntarily take his Corporal Oath before the Lord Mayor and greater part of the Aldermen, in open Court of the Lord Mayor and Aldermen for the time being, That he then is not of the Value of <hi>Ten Thouſand</hi> Pounds in Lands. Goods and ſperate Debts, and do like<g ref="char:EOLhyphen"/>wiſe bring with him Six other Citizens, Free<g ref="char:EOLhyphen"/>men of the ſame City, of good Credit and Re<g ref="char:EOLhyphen"/>putation, ſuch as the Court of Lord Mayor and Aldermen for the time being, ſhall allow, who ſhall likewiſe voluntarily teſtifie upon their corporal Oaths, That in their Conſciences they believe, that the ſaid Perſon ſo to be choſen or e<g ref="char:EOLhyphen"/>lected Sheriff, hath Depoſed and Sworn truly concerning his Value, as is aforeſaid: And it is likewiſe Ordained and Enacted by the ſame Authority, That if any Perſon, being a Free<g ref="char:EOLhyphen"/>man of this City ſhall be Choſen or Elected Sheriff of the ſame City and County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and Publication thereof by open Proclamati<g ref="char:EOLhyphen"/>on being made in the <hi>Guildhall</hi> in the place where the Court of Huſtings is uſually holden in the Preſence of the Lord Mayor and Six Aldermen for the time being (at the leaſt) or in the Abſence of the ſaid Lord Mayor, then in the Preſence of Eight Aldermen of the ſaid Ci<g ref="char:EOLhyphen"/>ty for the time being (at the leaſt). And being called to come forth and give his Conſent to take the ſaid Office of Shrievalty upon him, ſhall not perſonally appear before the Lord Mayor and Court of Aldermen for the time
+<pb n="4" facs="tcp:107436:4"/>
+                  <!-- PDF PAGE 18 -->being, in the <hi>Inner Chamber</hi> of the <hi>Guild-hall</hi> a<g ref="char:EOLhyphen"/>foreſaid, at the next Court there to be holden (unleſs he have ſuch reaſonable Excuſe as the Lord Mayor and greater part of the Aldermen for the time being, ſhall in open Court allow) and then and there become bounden to the <hi>Chamberlain</hi> of the ſame City, for the time being, and his Succeſſors by his Deed Obligatory, in the Sum of One thouſand Pounds, with Con<g ref="char:EOLhyphen"/>dition. That if he ſhall perſonally appear in the Publick Aſſembly in the <hi>Guild-hall</hi> of the ſame City on the Vigil of St. <hi>Michael</hi> the Arch-Angel then next following at the Time in that behalf accuſtomed, and then and there take upon him the Office and Charge of Shrievalty of the ſaid City and County, That then the ſaid Obli<g ref="char:EOLhyphen"/>gation ſhall be void; Or if ſuch Perſon ſo to be choſen or elected, ſhall, before the Lord Mayor and Court of Aldermen openly declare his Refu<g ref="char:EOLhyphen"/>ſal to take upon him the ſaid Office, Then eve<g ref="char:EOLhyphen"/>ry ſuch Perſon which ſhall make ſuch Default in Appearance, by which ſhall not become boun<g ref="char:EOLhyphen"/>den, or which ſhall declare his Refuſal, as afore<g ref="char:EOLhyphen"/>ſaid, ſhall Forfeit the Sum of <hi>Four Hundred Pounds</hi> of Lawful Money of <hi>England</hi> to the Mayor and Commonalty of the ſame City, to be Im<g ref="char:EOLhyphen"/>ployed to the Vſes hereafter declared and ex<g ref="char:EOLhyphen"/>preſſed, unleſs he ſhall be duly diſcharged of the ſaid Office of Shrievalty, for Want or Defect of Ability in Wealth, upon Oath taken, as is aforeſaid. Provided nevertheleſs, and Be it Enacted, Ordained and Eſtabliſhed by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, (any thing in this Act to the contrary notwithſtanding) That if the Perſon ſo to be choſen or elected, and making Default
+<pb n="5" facs="tcp:107436:4"/>
+                  <!-- PDF PAGE 18 -->in appearing, or denying to become Bounden, or that ſhall declare his Refuſal, as aforeſaid, ſhall be an Alderman of this City at the time of his Choice or Election, then every ſuch Alder<g ref="char:EOLhyphen"/>man ſo to be choſen or elected, ſhall Forfeit the Sum of <hi>Six hundred Marks,</hi> of Lawful Money of <hi>England,</hi> to the Mayor and Commonalty of the ſame City, to be imployed to the Vſes hereafter in this Act Declared and Expreſſed. All which Forfeitures or Penalties ſhall be recovered by Action, or Bill of Debt Original, to be commen<g ref="char:EOLhyphen"/>ced and proſecuted in any the Courts of Record of the King's Majeſty, or His Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, within the ſaid City; And that the ſame Perſon or Perſons ſo Offending, or Refuſing, after ſuch Forfeiture, ſhall nevertheleſs remain Eligible yearly afterward to be Sheriff of the ſaid <hi>City</hi> and <hi>County,</hi> as if he or they had never been before Choſen or Elected to the ſaid Office. Provided alſo, and it is likewiſe Enacted and Declared, touching the Vſes and Imployment of the ſaid Forfeitures, That if any ſuch De<g ref="char:EOLhyphen"/>fault or Forfeiture ſhall be made, as aforeſaid, by any Perſon that ſhall firſt in any Year be Choſen or Elected by the Lord Mayor for the time being, to be Shrieve of the <hi>City</hi> of <hi>London,</hi> and <hi>County</hi> of <hi>Middleſex,</hi> That then <hi>One hundred Pounds,</hi> parcel of ſuch Forfeitures, ſhall be given and beſtowed upon ſuch Perſon as ſhall firſt in the ſame Year accept to take upon him the ſaid Of<g ref="char:EOLhyphen"/>fice of Shrievalty: And if it ſhall happen after ſuch Acceptation of the ſaid Office, any other Forfeiture by Default or Refuſal ſhall be made in the ſame Year by any perſon that ſhall be Choſen or Elected by the Lord Mayor, Aldermen
+<pb n="6" facs="tcp:107436:5"/>
+                  <!-- PDF PAGE 19 -->and Commons, for the time being, to be She<g ref="char:EOLhyphen"/>riff of the ſaid <hi>City</hi> and <hi>County</hi> of <hi>Middleſex,</hi> That then <hi>One hundred Pounds</hi> parcel of ſuch For<g ref="char:EOLhyphen"/>feiture ſhall be given and beſtowed upon ſuch o<g ref="char:EOLhyphen"/>ther Perſon as ſhall firſt after ſuch Forfeiture in the ſame Year accept and take upon him the ſaid Office of Shrievalty, being thereunto Elected and Choſen by the Lord Mayor, Aldermen and Commons of the ſame City; And that all the Reſidue of the ſame Forfeitures, and all other Forfeitures and Penalties for Refuſal, or ma<g ref="char:EOLhyphen"/>king Default to appear, denying to become Bound, or declaring Refuſal to take the ſaid Of<g ref="char:EOLhyphen"/>fice of Shrievalty, as is aforeſaid, ſhall be whol<g ref="char:EOLhyphen"/>ly and intirely Vſed and Imployed to the only Vſe and Behalf of the <hi>Mayor,</hi> and <hi>Commonalty</hi> and <hi>Citizens</hi> of the ſaid <hi>City;</hi> any Act, Law, or Ordinance to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>ſtanding. And be it further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforeſaid, That if any Freeman of this City, which ſhall incur any Penalty or Forfei<g ref="char:EOLhyphen"/>ture before declared, by Force of this Act, ſhall not within Three Months next after ſuch For<g ref="char:EOLhyphen"/>feiture incurred, well and truly pay unto the <hi>Chamberlain</hi> of the ſaid City, for the time being, all ſuch Penalties and Forfeitures to ſuch Vſes as in this Act is appointed and declared, That then every ſuch Perſon failing of ſuch Payment, ſhall, over and above the ſaid Penalties and For<g ref="char:EOLhyphen"/>feitures before declared, Forfeit and Loſe the Sum of <hi>One hundred Pounds</hi> more to the Vſe of the ſaid Mayor and Commonalty, to be Reco<g ref="char:EOLhyphen"/>vered in Form aboveſaid. And to the intent that no Alderman of this City ſhall, in reſpect of Poſteriority of Choice or Election to the ſaid
+<pb n="7" facs="tcp:107436:5"/>
+                  <!-- PDF PAGE 19 -->Office of Shrievalty, be inferiour in Antiency or Preheminence to any Commoner, and for other good Conſiderations: It is therefore En<g ref="char:EOLhyphen"/>acted, That the Lord Mayor of the ſaid City for the time being, ſhall not at any time hereafter chooſe or elect any Commoner of this City to be Sheriff of this City of <hi>London,</hi> and of the County of <hi>Middleſex,</hi> ſo long as there ſhall then be an Alderman of this City Eligible to the ſaid Office; Any former Law, Cuſtom, Vſage, or other Matter whatſoever to the contrary notwith<g ref="char:EOLhyphen"/>ſtanding. And to the intent that the Court of Lord Mayor and Aldermen of this City for the time being, ſhall not be burdened or charged with any Vnkindneſs, nor peſtered with Impor<g ref="char:EOLhyphen"/>tunate Suits. if they ſhall refuſe to relieve ſuch Perſons as ſhall make Default, or deny to be<g ref="char:EOLhyphen"/>come Bound, or refuſe to Accept of the ſaid Of<g ref="char:EOLhyphen"/>fice of Shrievalty, as is aforeſaid. And for other good Confiderations, it is likewiſe De<g ref="char:EOLhyphen"/>clared and Enacted, That the Court of Lord Mayor and Aldermen of this City for the time being have not, nor ſhall have Power nor Au<g ref="char:EOLhyphen"/>thority in any caſe, without the Aſſent of the Commoners in publick Common Council of this City firſt had and obtained, to Diſpenſe with, Remit or Abate any of the ſaid Forfeitures, or any part thereof. which at any time hereafter ſhall happen or grow Due by Force of this Act; nor to give Reſpite of Payment thereof, or of any part thereof, above the Term of One Year at the moſt; nor to give any Reſtraint or De<g ref="char:EOLhyphen"/>lay of Suit to be commenced and proſecuted for Recovery thereof.</p>
+               <closer>
+                  <signed>Goodfellow.</signed>
+               </closer>
+            </div>
+            <div type="Act">
+               <pb n="8" facs="tcp:107436:6"/>
+               <!-- PDF PAGE 20 -->
+               <head>Commune Concilium tent' in Camera <hi>Guihald'</hi> Civitat' <hi>LONDON,</hi> 
+                  <date>die <hi>Veneris</hi> decimo quinto die <hi>Junij</hi> 1694. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Regni Dom' <hi>Willielmi</hi> &amp; Dom' <hi>Mariae</hi> nunc Regis &amp; Reginae, <hi>Angl',</hi> &amp;c. Sexto, Coram</date> 
+                  <hi>Will' Aſh<g ref="char:EOLhyphen"/>hurſt</hi> Mil' Major' dictae Civitatis, <hi>Roberto Clayton</hi> Mil'. <hi>Patienc' Ward</hi> Mil', <hi>Will' Pritchard</hi> Mil', <hi>Roberto Jeffreys</hi> Mil', <hi>Thoma Lane</hi> Mil', <hi>Edvardo Clark</hi> Mil', <hi>Franciſco Child</hi> Mil', <hi>Richardo Levett</hi> Mil', <hi>Thoma Cook</hi> Mil' Alderman', &amp; <hi>Thoma Abney</hi> Mil', &amp; <hi>VVill' Hedges</hi> Mil' Vic' &amp; Alderman' dict' Civitat', nec non major' parte Communiar' dictae Civitat' in eodem Communi Concilio tunc &amp; ibidem aſſemblat'.</head>
+               <p>WHereas by a Clauſe in an Act of Common Council made the Twentieth Day of <hi>July,</hi> in the Seventh Year of the Reign of King <hi>CHARLES</hi> the Firſt, in the Majoralty of Sir <hi>Robert Ducy,</hi> It was amongſt other things Enacted in the Words following, That the Lord Mayor of this City, for the time being, ſhall not at any time here<g ref="char:EOLhyphen"/>after chooſe or elect any Commoner of this City to be Sheriff of the City of <hi>London,</hi> and of the County of <hi>Middleſex,</hi> ſo long as there ſhall then be an Alderman of the City Eligible to the ſaid Office.</p>
+               <p>Which ſaid Clauſe, in reſpect of Accidents or Circumſtances, may not at all times be conve<g ref="char:EOLhyphen"/>nient to be practiſed.</p>
+               <p>And whereas by another Clauſe in an Act of Common Council, made the Sixth Day of <hi>June,</hi> in the Thirty fifth Year of King <hi>Charles</hi> the Second, in the Mayoralty of Sir <hi>William Pritchard,</hi> Knight; It was amongſt other things Enacted in the Words following, That the
+<pb n="9" facs="tcp:107436:6"/>
+                  <!-- PDF PAGE 20 -->Perſon who ſhall be Nominated and Elected according to ancient Vſage by the Lord Mayor of this City, for the time being, to be one of the Sheriffs of the City of <hi>London,</hi> and County of <hi>Middleſex,</hi> and ſuch Election ſhall be declared to the Commons of the ſaid City aſſembled in Com<g ref="char:EOLhyphen"/>mon Hall upon the Twenty fourth day of <hi>June,</hi> ſhall there by the ſaid Commons be confirmed and allowed to be one of the Sheriffs of the ſaid City and County accordingly: And that upon propoſing the ſaid Perſon to be confirmed to the ſaid Common Hall, in caſe any Hands ſhall be holden up in token of Confirmation, the ſaid Perſon ſhall be taken to be confirmed and allow<g ref="char:EOLhyphen"/>ed, and then another Perſon ſhall be choſen by majority of Hands to be the other of the ſaid Sheriffs, and to joyn with him that ſhall be ſo confirmed.</p>
+               <p>Which ſaid Clauſe being not only repugnant to Reaſon, but contrary to the Rules and Me<g ref="char:EOLhyphen"/>thods of Elections:</p>
+               <p>Be it therefore Enacted by the Mayor, Alder<g ref="char:EOLhyphen"/>men and Commons in Common Council Aſ<g ref="char:EOLhyphen"/>ſembled, and by the Authority of the ſame, That the ſaid ſeveral Clauſes before-recited, and either of them, and every Article and Thing contained in them, or either of them, ſhall be, and are hereby Repealed, Annulled and made Void.</p>
+               <p>And whereas by ſeveral Acts of Common Council, the Election of Sheriffs, Chamber<g ref="char:EOLhyphen"/>lain, Bridgmaſters and Auditors of the Cham<g ref="char:EOLhyphen"/>berlain and Bridghouſe-Accounts, and Alecon<g ref="char:EOLhyphen"/>ners, are appointed on <hi>Midſummer-day</hi> yearly, except the Sheriff or Sheriffs, Chamberlain, or
+<pb n="10" facs="tcp:107436:7"/>
+                  <!-- PDF PAGE 21 -->other of the ſaid Officers, for the time being, ſhall die, or for juſt Cauſe be removed: And whereas in ſome years (as in this preſent year) <hi>Midſummer-day</hi> happeneth to fall on the Lords Day, commonly called <hi>Sunday,</hi> which ought to be kept holy, and is a neceſſary and required part of the Service of God, and enjoyned by the Laws and Statutes of this Realm;</p>
+               <p>Be it therefore Enacted and Declared, That from henceforth, whenſoever <hi>Midſummer-day</hi> ſhall happen to be on the Lords Day, commonly cal<g ref="char:EOLhyphen"/>led <hi>Sunday,</hi> That the Election of the Sheriffs, Chamberlain, Bridgmaſters, Auditors of the Chamberlain and Bridghouſe-Accounts, and Aleconners ſhall be on the Day next following, any Act or Acts, or any other Vſage to the con<g ref="char:EOLhyphen"/>trary notwithſtanding.</p>
+               <closer>
+                  <signed>Goodfellow.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Samuel Roycroft,</hi> Printer to the Honourable City of <hi>London.</hi> 1700.</p>
+            <pb facs="tcp:107436:7"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </back>
+   </text>
+</TEI>
